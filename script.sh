@@ -16,6 +16,6 @@ a) date;;
 b) ls -l;;
 c) cat /etc/passwd | more;;
 d) uptime;;
-e) ls;;
+e) touch file.txt;;
 f) echo invalid choices
 		esac
