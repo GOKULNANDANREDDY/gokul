@@ -16,6 +16,6 @@ a) date;;
 b) ls -l;;
 c) cat /etc/passwd | more;;
 d) uptime;;
-e) touch file.txt;;
+e) touch goku.txt;;
 f) echo invalid choices
 		esac
